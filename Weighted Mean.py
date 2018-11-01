@@ -1,4 +1,4 @@
-# Without stat packages
+# Example without stat packages
 size = int(input())
 numbers = [int(x) for x in input().split()]
 weights = [int(x) for x in input().split()]
